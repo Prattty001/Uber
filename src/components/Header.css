@@ -1,0 +1,8 @@
+.nav-link-hover {
+    transition: color 0.3s;
+  }
+  
+  .nav-link-hover:hover {
+    color: grey !important;
+  }
+  
